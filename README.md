@@ -1,6 +1,6 @@
 ## Hi there, I'm Hetul Suthar 👋
 
-### 🎨 Web Designer | Front-End Developer
+### Web Designer | Front-End Developer
 
 ## About Me
 To secure a challenging position within an organization that values dedication, and hard work, and offers opportunities
@@ -8,7 +8,7 @@ for growth and development, allowing me to enhance my professional skills, capab
 on responsibilities that align with my abilities.
 
 ## Skills
-### 🖌 Design & Prototyping
+### Design & Prototyping
 - Adobe Illustrator | Adobe Photoshop | Figma
 
 ## Lanuage Skills
