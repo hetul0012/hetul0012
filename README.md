@@ -1,6 +1,6 @@
 ## Hi there, I'm Hetul Suthar 👋
 
-### Web Designer | Front-End Developer
+#### Web Designer | Front-End Developer
 
 ## About Me
 To secure a challenging position within an organization that values dedication, and hard work, and offers opportunities
