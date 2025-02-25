@@ -9,7 +9,7 @@ on responsibilities that align with my abilities.
 
 ## Skills
 ### Design & Prototyping
-- Adobe Illustrator | Adobe Photoshop | Figma
+Adobe Illustrator | Adobe Photoshop | Figma
 
 ## Lanuage Skills
 HTML | CSS | JavaScript | React
