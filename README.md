@@ -1,9 +1,7 @@
 ## Hi there, I'm Hetul Suthar 👋
 
-#### Web Designer | Front-End Developer
-
 ![hetul-banner](https://github.com/user-attachments/assets/895b33e6-bd6d-456f-bcb2-91282c457b92)
-
+#### Web Designer | Front-End Developer
 
 ## About Me
 To secure a challenging position within an organization that values dedication, and hard work, and offers opportunities
