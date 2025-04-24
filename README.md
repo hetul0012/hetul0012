@@ -2,6 +2,9 @@
 
 #### Web Designer | Front-End Developer
 
+![hetul-banner](https://github.com/user-attachments/assets/895b33e6-bd6d-456f-bcb2-91282c457b92)
+
+
 ## About Me
 To secure a challenging position within an organization that values dedication, and hard work, and offers opportunities
 for growth and development, allowing me to enhance my professional skills, capabilities, and knowledge while taking
